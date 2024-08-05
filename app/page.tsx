@@ -1,4 +1,4 @@
-"use client";
+// "use client";
 
 import { Box } from "@mui/material";
 import navigate from "@/app/helpers/navigate";
