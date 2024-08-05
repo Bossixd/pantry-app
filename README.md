@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Go to https://pantry-8zvohp014-bossixds-projects.vercel.app/auth/login
+
+## Run on local
+
 First, run the development server:
 
 ```bash
